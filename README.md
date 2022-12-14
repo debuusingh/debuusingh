@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debuusingh
+- - 💞️ I’m looking to collaborate on converting 2d images to 3d model
 - 👀 I’m interested in ML, opencv, Robotics
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me debuusingh@hotmail.com
 
 <!---
